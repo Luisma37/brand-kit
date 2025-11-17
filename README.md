@@ -1,5 +1,5 @@
 ![Base](logo.webp)
-
+<!-- Actualizado noviembre 2025 – contribución comunitaria -->
 # Base brand-kit
 
 This repo contains [brand](guides/brand-guide.pdf) and [editorial style](guides/editorial-style-guide.md) guides for Base.
