@@ -46,3 +46,7 @@ Located in [/fonts](fonts/).
 | ![SymbolBlue](logo/TheSquare/Digital/Base_square_blue.svg)   | ![WordmarkBlue](logo/Basemark/Digital/Base_basemark_blue.svg)   |
 | ![SymbolWhite](logo/TheSquare/Digital/Base_square_white.svg)   | ![WordmarkWhite](logo/Basemark/Digital/Base_basemark_white.svg)   |
 | ![SymbolBlack](logo/TheSquare/Digital/Base_square_black.svg)   | ![WordmarkBlack](logo/Basemark/Digital/Base_basemark_black.svg)   |
+## Cómo contribuir al Brand Kit de Base
+
+- Cualquier mejora es bienvenida: correcciones de texto, nuevos ejemplos de uso, etc.
+- ¡Gracias a toda la comunidad de builders de Base! 🛡️
