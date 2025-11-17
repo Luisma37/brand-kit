@@ -52,3 +52,6 @@ Located in [/fonts](fonts/).
 - ¡Gracias a toda la comunidad de builders de Base! 🛡️
 - ## Contribución de la comunidad
 Gracias a @Luisma37 por mejorar la docs. ¡Builders uníos! 🚀
+
+## Nota de builder comunitario
+¡Gracias a la comunidad de Base por fomentar contribuciones open-source! - @Luisma37, Nov 2025
