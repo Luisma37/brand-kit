@@ -50,3 +50,5 @@ Located in [/fonts](fonts/).
 
 - Cualquier mejora es bienvenida: correcciones de texto, nuevos ejemplos de uso, etc.
 - ¡Gracias a toda la comunidad de builders de Base! 🛡️
+- ## Contribución de la comunidad
+Gracias a @Luisma37 por mejorar la docs. ¡Builders uníos! 🚀
